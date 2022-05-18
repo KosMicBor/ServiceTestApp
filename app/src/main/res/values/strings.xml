@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyServiceApplication</string>
+    <string name="intent_service_button_text">Run IntentService</string>
+    <string name="custom_service_button_text">Run CustomService</string>
 </resources>
